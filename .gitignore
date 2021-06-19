@@ -1,0 +1,4 @@
+# Project exclude paths
+/cmake-build-release-general/
+/cmake-build-release-java/
+/cmake-build-release-python/
